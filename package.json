@@ -1,0 +1,22 @@
+{
+    "name": "@decoverto/validators",
+    "version": "0.1.0",
+    "description": "Validators for Decoverto",
+    "keywords": [
+        "validation",
+        "decorators",
+        "decoverto"
+    ],
+    "author": "Matthias Kunnen",
+    "license": "MIT",
+    "private": false,
+    "repository": "github:decoverto/validators",
+    "bugs": {
+        "url": "https://github.com/decoverto/validators/issues"
+    },
+    "homepage": "https://github.com/decoverto/validators",
+    "files": [
+        "lib/**/!(*.tsbuildinfo)",
+        "src"
+    ]
+}

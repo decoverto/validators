@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+
+# compiled output
+/dist
+/tmp
+/lib
+/out-tsc
+
+# packages
+node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+.history/*
+
+# Yarn https://yarnpkg.com/advanced/qa#which-files-should-be-gitignored
+.pnp.*
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# misc
+/coverage
+/local
+/typings
+.env
+.eslintcache
+.nyc_output
+*.local
+*.local.*
